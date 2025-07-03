@@ -81,9 +81,14 @@ Follow the guided setup:
 
 ### 📸 Screenshots
 
-- Jenkins Installed
-- Jenkins Dashboard
-- Hello World Job Success
+**Step 1 - Jenkins Installed**  
+![Jenkins Installed](screenshots/step-1-jenkins-installed.png)  
+
+**Step 2 - Jenkins Dashboard**  
+![Jenkins Dashboard](screenshots/step-2-jenkins-dashboard.png)  
+
+**Step 3 - Hello World Job Success**  
+![Hello World Job](screenshots/step-3-hello-world-success.png) 
 
 📝 Notes
 ---
